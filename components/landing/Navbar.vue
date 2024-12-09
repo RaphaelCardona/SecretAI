@@ -1,15 +1,15 @@
 <script setup>
 const menuitems = [
   {
-    title: "Features",
-    path: "#",
+    title: "Telegram",
+    path: "https://t.me/FaithHopeLoveCharity",
   },
   {
     title: "Pricing",
     path: "/pricing",
   },
   {
-    title: "About",
+    title: "Team",
     path: "/about",
   },
   {
