@@ -3,8 +3,8 @@
     <div class="p-24 md:order-1 hidden md:block">
       <img
         class="rounded-full transition-transform transform hover:scale-125"
-        src="~/assets/img/hero.jpg"
-        alt="Starship starts the engine"
+        src="https://ibb.co/RYYvCc1"
+        alt="Secret AI"
         loading="eager"
         format="avif"
         width="512"
@@ -24,7 +24,7 @@
           href="https://secret.kairoscrypto.org"
           target="_blank"
           rel="noopener"
-          >Try out our AI (Beta)</LandingLink
+          >Try out our AI Model</LandingLink
         >
         <LandingLink
           size="lg"
