@@ -2,7 +2,7 @@
 const menuitems = [
   {
     title: "Home",
-    path: "/",
+    path: "",
   },
   {
     title: "Pricing",
