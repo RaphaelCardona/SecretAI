@@ -1,8 +1,8 @@
 <script setup>
 const menuitems = [
   {
-    title: "Home",
-    path: "",
+    title: "/charity",
+    path: "Not-For-Profit",
   },
   {
     title: "Pricing",
