@@ -2,7 +2,7 @@
 const menuitems = [
   {
     title: "Not-For-Profit",
-    path: "/charity",
+    path: "",
   },
   {
     title: "Pricing",
