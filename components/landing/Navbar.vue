@@ -68,10 +68,10 @@ const open = ref(false);
           </li>
         </ul>
         <div class="lg:hidden flex items-center mt-3 gap-4">
-          <LandingLink href="#" styleName="muted" block size="md"
-            >Log in</LandingLink
+          <LandingLink href="https://x.com/KairosOmega" styleName="muted" block size="md"
+            >Twitter</LandingLink
           >
-          <LandingLink href="#" size="md" block>Sign up</LandingLink>
+          <LandingLink href="https://ai.kairoscrypto.org" size="md" block>SecretAI Beta</LandingLink>
         </div>
       </nav>
       <div>
