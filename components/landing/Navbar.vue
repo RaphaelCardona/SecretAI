@@ -1,15 +1,15 @@
 <script setup>
 const menuitems = [
   {
-    title: "Charity",
-    path: "https://charity.kairoscrypto.org",
+    title: "Our Charity",
+    path: "/charity",
   },
   {
     title: "Pricing",
     path: "/pricing",
   },
   {
-    title: "Our Team",
+    title: "Team",
     path: "/about",
   },
   {
