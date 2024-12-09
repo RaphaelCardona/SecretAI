@@ -77,7 +77,7 @@ const open = ref(false);
       <div>
         <div class="hidden lg:flex items-center gap-4">
           <a href="https://x.com/KairosOmega">Twitter</a>
-          <LandingLink href="https://t.me/FaithLoveHopeCharity" size="md">Telegram</LandingLink>
+          <LandingLink href="https://t.me/KairosCryptoLLC" size="md">Telegram</LandingLink>
         </div>
       </div>
     </header>
