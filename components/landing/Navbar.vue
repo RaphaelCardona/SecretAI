@@ -9,7 +9,7 @@ const menuitems = [
     path: "/pricing",
   },
   {
-    title: "Team",
+    title: "About Developer",
     path: "/about",
   },
   {
