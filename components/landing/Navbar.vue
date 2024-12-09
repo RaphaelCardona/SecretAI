@@ -5,7 +5,7 @@ const menuitems = [
     path: "",
   },
   {
-    title: "Pricing",
+    title: "Full Access",
     path: "/pricing",
   },
   {
