@@ -1,15 +1,15 @@
 <script setup>
 const menuitems = [
   {
-    title: "Telegram",
-    path: "https://t.me/FaithHopeLoveCharity",
+    title: "Features",
+    path: "#",
   },
   {
     title: "Pricing",
     path: "/pricing",
   },
   {
-    title: "Team",
+    title: "About",
     path: "/about",
   },
   {
@@ -68,16 +68,16 @@ const open = ref(false);
           </li>
         </ul>
         <div class="lg:hidden flex items-center mt-3 gap-4">
-          <LandingLink href="https://x.com/KairosOmega" styleName="muted" block size="md"
-            >Twitter</LandingLink
+          <LandingLink href="#" styleName="muted" block size="md"
+            >Log in</LandingLink
           >
-          <LandingLink href="https://ai.kairoscrypto.org" size="md" block>SecretAI Beta</LandingLink>
+          <LandingLink href="#" size="md" block>Sign up</LandingLink>
         </div>
       </nav>
       <div>
         <div class="hidden lg:flex items-center gap-4">
-          <a href="#">Log in</a>
-          <LandingLink href="#" size="md">Sign up</LandingLink>
+          <a href="https://x.com/KairosOmega">Twitter</a>
+          <LandingLink href="https://t.me/FaithLoveHopeCharity" size="md">Telegram</LandingLink>
         </div>
       </div>
     </header>
