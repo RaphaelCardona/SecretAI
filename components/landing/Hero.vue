@@ -14,19 +14,17 @@
 
     <div>
       <h1 class="text-5xl lg:text-6xl xl:text-7xl font-bold lg:tracking-tight">
-        Secret AI Project (Name/Ticker TBA)
+        Secret AI Project
       </h1>
       <p class="text-lg mt-4 text-slate-600 max-w-xl">
-      Voice-Activated AI capable of Emotional Intelligence
-      Built to help people grow spiritually and recover mentally
-      10% of profits go to Charity!
+      Voice-Activated AI capable of Emotional Intelligence built to help people grow spiritually and recover mentally. Launching on Moonshot December 11th, 2024. Name & Ticker to be Announced.
       </p>
       <div class="mt-6 flex flex-col sm:flex-row gap-3">
         <LandingLink
           href="https://secret.kairoscrypto.org"
           target="_blank"
           rel="noopener"
-          >Mental Health AI (BETA)</LandingLink
+          >Try out our AI Beta</LandingLink
         >
         <LandingLink
           size="lg"
