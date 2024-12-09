@@ -3,7 +3,7 @@
     <div class="p-24 md:order-1 hidden md:block">
       <img
         class="rounded-full transition-transform transform hover:scale-125"
-        src="https://ibb.co/RYYvCc1"
+        src="~/assets/img/hero.jpg"
         alt="Secret AI"
         loading="eager"
         format="avif"
