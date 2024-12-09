@@ -2,7 +2,7 @@
 const menuitems = [
   {
     title: "Charity",
-    path: "charity.kairoscrypto.org",
+    path: "https://charity.kairoscrypto.org",
   },
   {
     title: "Pricing",
