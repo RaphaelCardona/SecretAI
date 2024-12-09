@@ -5,16 +5,16 @@ definePageMeta({
 
 const pricing = [
   {
-    name: "Personal",
+    name: "SecretAI Basic",
     price: "Free",
     popular: false,
     features: [
-      "Lifetime free",
-      "Up to 3 users",
-      "Unlimited Pages",
-      "Nuxt Sub domain",
-      "Basic Integrations",
-      "Community Support",
+      "Free until migration to Raydium",
+      "Limited-access; throttling after extensive use",
+      "Mental Health Prompt",
+      "Lifelike Voice Chat",
+      "Get help with any issue you face",
+      "Empathetic AI with Emotional Intelligence",
     ],
     button: {
       text: "Get Started",
@@ -22,21 +22,21 @@ const pricing = [
     },
   },
   {
-    name: "Startup",
+    name: "SecretAI Pro",
     price: {
-      monthly: "$19",
+      monthly: "$10",
       annual: "$16",
       discount: "10%",
       original: "$24",
     },
     popular: true,
     features: [
-      "All Free Features",
-      "Up to 20 users",
-      "20 Custom domains",
-      "Unlimited Collaborators",
-      "Advanced Integrations",
-      "Priority Support",
+      "All the Pro Features of our AI Model",
+      "Full-access; no throttling",
+      "Spiritual Advisor Prompt",
+      "Lifelike Voice Chat",
+      "Attain Spiritual Enlightenment",
+      "Explore your Faith",
     ],
     button: {
       text: "Get Started",
@@ -44,15 +44,15 @@ const pricing = [
     },
   },
   {
-    name: "Enterprise",
-    price: "Custom",
+    name: "Build-Your-Own AI",
+    price: "250",
     popular: false,
     features: [
-      "All Pro Features",
-      "Unlimited Custom domains",
-      "99.99% Uptime SLA",
-      "SAML & SSO Integration",
-      "Dedicated Account Manager",
+      "Fully-Customizeable AI",
+      "Choose your own prompt, like Mental Health Coach or Spiritual Advisor",
+      "Hosting, setup and updates fully taken care of by our team",
+      "60-minute Zoom meeting with the developer every month to take care of any updates you need",
+      "Empathetic AI with Emotional Intelligence",
       "24/7 Phone Support",
     ],
     button: {
