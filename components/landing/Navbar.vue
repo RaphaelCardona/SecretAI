@@ -1,7 +1,7 @@
 <script setup>
 const menuitems = [
   {
-    title: "Not-For-Profit",
+    title: "Home",
     path: "",
   },
   {
@@ -26,7 +26,7 @@ const open = ref(false);
     <header class="flex flex-col lg:flex-row justify-between items-center my-5">
       <div class="flex w-full lg:w-auto items-center justify-between">
         <a href="/" class="text-lg"
-          ><span class="font-bold text-slate-800">Secret</span
+          ><span class="font-bold text-slate-800">G.O.A.T.</span
           ><span class="text-slate-500">AI</span>
         </a>
         <div class="block lg:hidden">
