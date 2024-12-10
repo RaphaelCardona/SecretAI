@@ -76,8 +76,8 @@ const open = ref(false);
       </nav>
       <div>
         <div class="hidden lg:flex items-center gap-4">
-          <a href="https://x.com/KairosOmega">Twitter</a>
-          <LandingLink href="https://t.me/KairosCryptoLLC" size="md">Telegram</LandingLink>
+          <a href="https://x.com/BlockHashProAI">Twitter</a>
+          <LandingLink href="https://t.me/TheGoatAI" size="md">Telegram</LandingLink>
         </div>
       </div>
     </header>
